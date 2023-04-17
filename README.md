@@ -7,7 +7,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561995085602&text&type=phone_number&app_absent=0)
 [![TWICH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/john__venom)
 
-![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathancscosta&show_icons=true&theme=dracula)
+![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathancscosta&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div Style="display: inline_block"><br/>
